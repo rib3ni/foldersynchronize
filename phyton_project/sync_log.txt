@@ -1,0 +1,66 @@
+2024-09-19 14:41:53 - INFO - Starting synchronization at 2024-09-19 14:41:53
+2024-09-19 14:41:53 - INFO - Copied: C:\Users\renan\Desktop\phyton_project\source\foto_de_perfil.jpeg -> C:\Users\renan\Desktop\phyton_project\replica\.\foto_de_perfil.jpeg
+2024-09-19 14:41:53 - INFO - Synchronization completed at 2024-09-19 14:41:53
+2024-09-19 14:41:53 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:42:08 - INFO - Starting synchronization at 2024-09-19 14:42:08
+2024-09-19 14:42:08 - INFO - Synchronization completed at 2024-09-19 14:42:08
+2024-09-19 14:42:08 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:42:23 - INFO - Starting synchronization at 2024-09-19 14:42:23
+2024-09-19 14:42:23 - INFO - Synchronization completed at 2024-09-19 14:42:23
+2024-09-19 14:42:23 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:42:38 - INFO - Starting synchronization at 2024-09-19 14:42:38
+2024-09-19 14:42:38 - INFO - Copied: C:\Users\renan\Desktop\phyton_project\source\Novo Text Document.txt -> C:\Users\renan\Desktop\phyton_project\replica\.\Novo Text Document.txt
+2024-09-19 14:42:38 - INFO - Synchronization completed at 2024-09-19 14:42:38
+2024-09-19 14:42:38 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:42:53 - INFO - Starting synchronization at 2024-09-19 14:42:53
+2024-09-19 14:42:53 - INFO - Removed: C:\Users\renan\Desktop\phyton_project\replica\Novo Text Document.txt
+2024-09-19 14:42:53 - INFO - Removed: C:\Users\renan\Desktop\phyton_project\replica\foto_de_perfil.jpeg
+2024-09-19 14:42:53 - INFO - Synchronization completed at 2024-09-19 14:42:53
+2024-09-19 14:42:53 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:43:08 - INFO - Starting synchronization at 2024-09-19 14:43:08
+2024-09-19 14:43:08 - INFO - Synchronization completed at 2024-09-19 14:43:08
+2024-09-19 14:43:08 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:55:18 - INFO - Starting synchronization at 2024-09-19 14:55:18
+2024-09-19 14:55:18 - INFO - Synchronization completed at 2024-09-19 14:55:18
+2024-09-19 14:55:18 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:55:33 - INFO - Starting synchronization at 2024-09-19 14:55:33
+2024-09-19 14:55:33 - INFO - Synchronization completed at 2024-09-19 14:55:33
+2024-09-19 14:55:33 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:55:48 - INFO - Starting synchronization at 2024-09-19 14:55:48
+2024-09-19 14:55:48 - INFO - Synchronization completed at 2024-09-19 14:55:48
+2024-09-19 14:55:48 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:56:03 - INFO - Starting synchronization at 2024-09-19 14:56:03
+2024-09-19 14:56:03 - INFO - Copied: C:\Users\renan\Desktop\phyton_project\source\foto_de_perfil.jpeg -> C:\Users\renan\Desktop\phyton_project\replica\.\foto_de_perfil.jpeg
+2024-09-19 14:56:03 - INFO - Synchronization completed at 2024-09-19 14:56:03
+2024-09-19 14:56:03 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:56:18 - INFO - Starting synchronization at 2024-09-19 14:56:18
+2024-09-19 14:56:18 - INFO - Synchronization completed at 2024-09-19 14:56:18
+2024-09-19 14:56:18 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:56:33 - INFO - Starting synchronization at 2024-09-19 14:56:33
+2024-09-19 14:56:33 - INFO - Removed: C:\Users\renan\Desktop\phyton_project\replica\foto_de_perfil.jpeg
+2024-09-19 14:56:33 - INFO - Synchronization completed at 2024-09-19 14:56:33
+2024-09-19 14:56:33 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:56:48 - INFO - Starting synchronization at 2024-09-19 14:56:48
+2024-09-19 14:56:48 - INFO - Synchronization completed at 2024-09-19 14:56:48
+2024-09-19 14:56:48 - INFO - Next sync in 15 seconds...
+
+2024-09-19 14:57:03 - INFO - Starting synchronization at 2024-09-19 14:57:03
+2024-09-19 14:57:03 - INFO - Synchronization completed at 2024-09-19 14:57:03
+2024-09-19 14:57:03 - INFO - Next sync in 15 seconds...
+
+2024-09-19 17:09:07 - INFO - Starting synchronization at 2024-09-19 17:09:07
+2024-09-19 17:09:07 - INFO - Synchronization completed at 2024-09-19 17:09:07
+2024-09-19 17:09:07 - INFO - Next sync in 15 seconds...
+
